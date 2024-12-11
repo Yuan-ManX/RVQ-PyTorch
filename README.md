@@ -1,2 +1,2 @@
-# RVQ-PyTorch
+# RVQ PyTorch
 PyTorch implementation of RVQ
